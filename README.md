@@ -68,15 +68,12 @@ A proposta do PI se encaixa perfeitamente na resolução do principal problema a
 Essas telas foram uma proposta apresentada apenas para que tenhamos um produto inicial. <br>
 A partir dessa proposta, faremos todas as alterações necessárias e é bem possível que o resultado final do nosso trabalho não tenha nenhuma semelhança com o apresentado inicialmente. <br>
 
-![image]()
+<img src="DER01.png" alt="DER" width="300"> <br>
+<img src="tela01.png" alt="Tela Inicial" width="300"> <br>
+<img src="tela02.png" alt="Página de Cursos" width="300"> <br>
+<img src="tela03.png" alt="Página de Agenda Semanal" width="300"> <br>
+<img src="tela04.png" alt="Contato" width="300"> <br>
 
-![image]()
-
-![image]()
-
-![image]()
-
-![image]()
 
 ## Quinzena 1
 Objetivo: Analisar o cenário do projeto e iniciar o levantamento bibliográfico para abordar o problema.
